@@ -1,1 +1,1 @@
-# SeaWorld-A-Custom-Reinforcement-Learning-Environment-PADM-Project-
+# SeaWorld-A-Custom-Reinforcement-Learning-Environment
