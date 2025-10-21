@@ -33,7 +33,7 @@ When prompted, type y and press Enter.
 
 ### 2. ▶️ Activate the Environment
 ```bash
-conda activate seaworld_env
+conda activate <env_name>
 ````
 ### 3. 📚 Install Gymnasium and Optional Extras
 ```bash
